@@ -1,0 +1,3 @@
+my name is bicky kumar mandal.
+git clone -> for clonint the project
+git status -> give the status about the ripo
